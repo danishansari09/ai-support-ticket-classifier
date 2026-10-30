@@ -1,0 +1,3 @@
+# AI Support Ticket Classifier
+
+A machine-learning project for classifying synthetic support tickets using text preprocessing, Bag of Words and TF-IDF.

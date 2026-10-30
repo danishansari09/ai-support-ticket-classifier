@@ -1,0 +1,8 @@
+subject,description,category,sub_category
+VPN connection failed,I cannot connect to VPN from my laptop,IT,VPN access
+Office WiFi not working,My laptop cannot connect to the office wireless network,Network,WiFi Unavailable
+Washroom maintenance required,The washroom tap is leaking on the second floor,Infrastructure,Washrooms
+Access card not working,My office access card is not opening the entrance door,Security,Access card
+Incorrect salary calculation,My monthly salary has an incorrect deduction,HR,Payroll
+Office 365 sign in failed,I am unable to sign into Office 365,IT,Microsoft Apps
+Discrepancy in PaySlip,I noticed that tax and pf computation is not accurate,HR,Payroll
