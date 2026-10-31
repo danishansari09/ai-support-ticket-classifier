@@ -42,6 +42,6 @@ print("Vocabulary size:", len(vectorizer.get_feature_names_out()))
 print("Feature matrix shape:", X.shape)
 print("Total target labels:", len(y))
 
-print('\nidf values:')
-for ele1, ele2 in zip(vectorizer.get_feature_names_out(), vectorizer.idf_):
-    print(ele1, ':', ele2.round(3))
+# print('\nidf values:')
+# for ele1, ele2 in zip(vectorizer.get_feature_names_out(), vectorizer.idf_):
+#     print(ele1, ':', ele2.round(3))
